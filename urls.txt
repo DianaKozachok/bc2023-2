@@ -1,0 +1,3 @@
+http://backend.course#DianaKozachok
+http://backend.course?name="Diana Kozachok"&github_name=DianaKozachok&group="Ð¤ÐÐ-22Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"
+https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?date=20210503&json&valcode=USD
